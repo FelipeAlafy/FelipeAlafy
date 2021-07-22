@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fato divertido: Eu faço todo ano duas playlist no [youtbe music](https://music.youtube.com/search?q=Felipe+Alafy) & I'm furry.
 - Alguns de meus repositorios para empresas estão privados, portanto meus repositorios visiveis não refletem o que eu necessariamente fiz durante este tempo: 
 
-###EN: 
+### EN: 
 - 🔭 I am currently working unofficially at Campo Solar & Soluções.
 - 🌱 I am continuously learning about Kotlin, TornadoFX, Kotlin Exposed and other kotlin related things.
 - 💬 Ask me about anything

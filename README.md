@@ -23,5 +23,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Every year I make two playlists on [youtube music](https://music.youtube.com/search?q=Felipe+Alafy) & I'm furry.
 - Some of my corporate repositories are private, so my visible repositories do not reflect what I necessarily did during this time.: 
 
-## My Card:
+## My Cards:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeAlafy&count_private=true&show_icons=true&theme=radical))](https://github.com/FelipeAlafy/github-readme-stats)
+
+## Top-Languages:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeAlafy&count_private=true&show_icons=true&theme=radical)](https://github.com/FelipeAlafy/github-readme-stats)

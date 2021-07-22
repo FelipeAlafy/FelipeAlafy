@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 - Some of my corporate repositories are private, so my visible repositories do not reflect what I necessarily did during this time.: 
 
 ## My Card:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeAlafy)](https://github.com/FelipeAlafy/github-readme-stats&count_private=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeAlafy&count_private=true&show_icons=true)](https://github.com/FelipeAlafy/github-readme-stats)

@@ -25,4 +25,4 @@ Here are the technologies and tools I work with daily:
 * 🎓 Education: B.S. in Computer Science (UNINTER).
 
 ### 📫 Let's connect!
-Whether it's to chat about Android, systems architecture, job opportunities, or to grab a coffee at the next HackTown, feel free to reach out on my [e-mail](mailto:pessoal@felipealafy.net)
+Whether it's to chat about Android, systems architecture, job opportunities, or to grab a coffee at the next HackTown, feel free to reach out on my [e-mail](mailto:pessoal@felipealafy.net).

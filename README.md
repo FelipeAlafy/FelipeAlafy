@@ -10,7 +10,7 @@ When I'm not automating cloud workflows or documenting enterprise systems, I'm d
 * life.Architecture: Clean Architecture, MVVM.
 * Technologies: Kotlin, Jetpack Compose, Dagger Hilt (Dependency Injection).
 * Persistence: Room Database (SQLite) with strict relational modeling (Foreign Keys, Cascade) and structured Migrations.
-* Website: [studentplanner.felipealafy.net](https://studentplanner.felipealafy/net)
+* Website: [studentplanner.felipealafy.net](https://studentplanner.felipealafy.net)
 * Repository: [Explore the Source Code](https://github.com/FelipeAlafy/StudentPlanner)
 
 ### 💻 Tech Stack & Tools
